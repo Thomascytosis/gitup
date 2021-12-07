@@ -3,7 +3,7 @@ SITENAME = 'live_github'
 SITEURL = '.'
 
 PATH = 'content'
-OUTPUT = 'docs'
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'America/Denver'
 
