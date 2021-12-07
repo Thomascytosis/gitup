@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'live_github'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
 OUTPUT = 'docs'
