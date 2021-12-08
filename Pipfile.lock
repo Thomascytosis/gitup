@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "508e4f754346ea1548583a8a0b900f2a576c3b3266fbe5bca29ff866d4d22f42"
+            "sha256": "8e1c44be244f57fd429ad5fdf29409a9a5c55b4d10169b00dffdcb1c21b94b0a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -54,6 +54,9 @@
             "version": "==2.0.0"
         },
         "invoke": {
+            "extras": [
+                "livereload"
+            ],
             "hashes": [
                 "sha256:374d1e2ecf78981da94bfaf95366216aaec27c2d6a7b7d5818d92da55aa258d3",
                 "sha256:769e90caeb1bd07d484821732f931f1ad8916a38e3f3e618644687fc09cb6317",
@@ -198,7 +201,7 @@
                 "sha256:1dded089b79dd042b3ab5cd63439a338e16652001f0c16e73acdcf4997ad772d",
                 "sha256:43b2c6ad51f46f6c94992aee546f1c177719f4e05aff8f5ea4d2efae3ebdac89"
             ],
-            "markers": "python_version < '4.0' and python_full_version >= '3.6.2'",
+            "markers": "python_full_version >= '3.6.2' and python_full_version < '4.0.0'",
             "version": "==10.15.2"
         },
         "six": {

@@ -4,7 +4,7 @@ SITEURL = '.'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
-
+THEME = '\Users\thomc\Desktop\pelican\static\pelican_themes\pelican-themes\twenty-html5up'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'English'
